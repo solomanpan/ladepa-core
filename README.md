@@ -9,7 +9,7 @@ The shared kernel of [ladepa](../ladepa) (the Rust twin of `kimoj-core` / the Go
 * `memory` — `MemoryBus` (ordered, panic-safe, `drain()` for tests) and `MemoryCache`.
 
 ```toml
-ladepa-core = { git = "https://github.com/solomanpan/ladepa-core", tag = "v0.1.0" }
+ladepa-core = { git = "https://github.com/solomanpan/ladepa-core", tag = "v1.0.0" }
 ```
 
 `cargo test` · MIT © 2026 PAN JIE
